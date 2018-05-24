@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527143007349,
+            "changeTime": 1527143007349,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527143007349,
+            "changeTime": 1527143007349,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527144362751,
+            "changeTime": 1527144362751,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527143007349,
+            "changeTime": 1527143007349,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527143049402,
+            "changeTime": 1527143079105,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account__c\\Account__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account__c\\Account__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2076,
+            "modifiedTime": 1527144362676,
+            "changeTime": 1527144362676,
+            "contentHash": "39c8e5048e65bd19c63621cdf72dbc1805aa7b30"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account__c\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1527144362681,
+            "changeTime": 1527144362681,
+            "contentHash": "557459aa21a51c5a0151093c18478151408ff1b9"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account__c-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account__c-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2085,
+            "modifiedTime": 1527144362695,
+            "changeTime": 1527144362695,
+            "contentHash": "46a3ecbb25f897a7f65f79f15210494b073e978a"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17977,
+            "modifiedTime": 1527144362729,
+            "changeTime": 1527144362729,
+            "contentHash": "2cfff99eeba275d793176e79ea3c9e01a60097b5"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4926,
+            "modifiedTime": 1527144362751,
+            "changeTime": 1527144362751,
+            "contentHash": "ba2f4621e6b53510a5a2ec65e0d4cc908def9820"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4588,
+            "modifiedTime": 1527144362751,
+            "changeTime": 1527144362751,
+            "contentHash": "9191a1a379e5635a8d79a1083220c60a99522ebe"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4588,
+            "modifiedTime": 1527144362751,
+            "changeTime": 1527144362751,
+            "contentHash": "9191a1a379e5635a8d79a1083220c60a99522ebe"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 705,
+            "modifiedTime": 1527144362756,
+            "changeTime": 1527144362756,
+            "contentHash": "2e2f214d0fdd56042cccb696cad61405fece6fd4"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527144362676,
+            "changeTime": 1527144362676,
+            "contentHash": "10e44af5a1af54aca42ce9c689de35aea688b53b"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527144362667,
+            "changeTime": 1527144362667,
+            "contentHash": "ebae9ff2c31adf41cd625e7feed2155ea5af9735"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527144362677,
+            "changeTime": 1527144362677,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527144362691,
+            "changeTime": 1527144362691,
+            "contentHash": "78a3b4754a463b089aab4fa0ce6309bc0d0661b7"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527144362736,
+            "changeTime": 1527144362736,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+        }
+    ],
+    [
+        "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AmbarkaarOffice\\Desktop\\Projects\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527144362755,
+            "changeTime": 1527144362755,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
